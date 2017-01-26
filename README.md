@@ -37,10 +37,6 @@ Eu amo trabalhar em equipe, gosto de ensinar as pessoas coisas novas. Tempo livr
 
 ## Experiência Profissional
 
-**Instrutor** - Willian Justen Cursos - Maio 2016 - Presente
-
-> Criação de cursos sobre Desenvolvimento Web.
-
 
 **Desenvolvedor Front End** - Empresa Junior de Engenharia de Computação EJEC - Janeiro 2016 - Agosto 2016
 
