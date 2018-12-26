@@ -2,7 +2,9 @@
 
 **Localização:** Araranguá , Santa Catarina
 
-**Telefone:** +55 (48) 991496580
+**Telefone:** +55 (48) 991496580]
+
+**Linkedin :** https://www.linkedin.com/in/matheus-francisco/
 
 **Blog:** [matheusfrancisco.github.io](http://matheusfrancisco.github.io)
 
