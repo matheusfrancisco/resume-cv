@@ -62,8 +62,9 @@ I'm a Computer Engineering student who loves working with challenging and creati
 **Teacher Arduino Course at UFSC** -Arduino programming course, taught at UFSC with support from Arara MakerSpace.
 
 
-> [Turma A Certificate]()
-> [Turma B Certificate]()
+> [Turma A Certificate](https://github.com/matheusfrancisco/resume-cv/blob/master/certificates/arduino.pdf)
+
+> [Turma B Certificate](https://github.com/matheusfrancisco/resume-cv/blob/master/certificates/arduino_%40.pdf)
 
 
 
