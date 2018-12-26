@@ -6,71 +6,89 @@
 
 **Blog:** [matheusfrancisco.github.io](http://matheusfrancisco.github.io)
 
+**Google scholar:** [Matheus Francisco B Machado](https://scholar.google.com.br/citations?user=cHEY7QIAAAAJ&hl=pt-BR)
+
 **E-mail:** matheusmachadoufsc@gmail.com
 
 **E-mail:** matheusfrancisco001@hotmail.com
 
-**Skype:** matheusfrancisco
-
 **Github:** matheusfrancisco
 
-## Sobre mim
-Eu sou um desenvolvedor que ama trabalhar com projetos  e criativos. Estou sempre buscando aprender novas tecnologias.
+## About
 
-Eu amo trabalhar em equipe, gosto de ensinar as pessoas coisas novas. Tempo livre gosto de ler livros de diversos assuntos. 
+I'm a Computer Engineering student who loves working with challenging and creative projects. I love programming and studying new skills, I'm constantly searching for best practices and also trying new things. And last but not least I love Python.
 
-## Habilidades
 
-* HTML - 
-* Responsive Design 
-* CSS 
-* Css Frameworks (Bootstrap)
-* Javascript 
+## Skills
+
+* C
+* Microcontroller programming
+
+* Javascript
+* Nodejs
+
 * Python
+* Flask
+* Django
+
 * Git
-* PHP
+
 * MySQL 
-* Java
 * Postgres
-* Programação extreme
-* Scrum and Kanban
+* MongoDB
+
+* Machine learning 
+* Data Science
+* Python pandas
+
+* Cryptocurrency
+* Blockchain
+* Tangle 
 
 ## Experiência Profissional
 
 
-**Desenvolvedor Front End** - Empresa Junior de Engenharia de Computação EJEC - Janeiro 2016 - Agosto 2016
+**Scientific research at UFSC** -   - August 2017 - Currently
 
-> Desenvolvimento de sites, , utilizando HTML, CSS e JS para o front-end.
+> CNPq scholarship holder in the research project Comparison between the use of different data sets for modeling and identifying at-risk academics, applying techniques of data mining and information on the machine and integration with web systems.
 
-**Marketing Digital** - Empresa Junior de Engenharia de Computação EJEC - Agosto 2016 - Dezembro 2016
+> publication [link](http://formulario.pibic.ufsc.br/pub/verFichaAvaliacao?id=520505&cpf=41819714810)
 
-> Criação de publiciade, utilizando linguaguem HTML, CSS, JS para o front-end.
+**Physics teacher at PES-UFSC** - [website](http://pes.ufsc.br/)
 
-**Desenvolvedor Front e Back end** -  Empresa Junior de Engenharia de Computação EJEC  - Dezembro 2016 - Atualmente
-
-> Atualmente na area de desenvolvedor , com projetos em Python, C, PHP, JS também projetos na parte de hardware como arduino, microcontroladores .
+> Professor of physics in the pre-university course of the Federal University of Santa Catarina Araranguá campus.
 
 
-## Formação
-
-**Engenharia da Computação - UFSC** - Agosto 2014 - Agosto 2019
+**Teacher Arduino Course at UFSC** -Arduino programming course, taught at UFSC with support from Arara MakerSpace.
 
 
+> [Turma A Certificate]()
+> [Turma B Certificate]()
 
 
-## Cursos
 
-Falta atualizar
+**Teacher programming logic  at UFSC** - Logic course for children taught at UFSC with support from Arara MakerSpace
+
+> [Turma A Certificate]()
+
+
+**Member Ejec** - Empresa Junior de Engenharia de Computação EJEC - Ago 2016 - Ago 2017
+
+> Working at EJEC was one of the greatest experiences I've had. It was possible to work on developer projects. I developed important skills such as group work. We always seek to learn about new technologies.
+
+
+
+## Graduate
+
+**Computer engineer at UFSC** - Agosto 2014 - Agosto 2019
+
 
 
 ## Extras
 
-Falta atualizar
+* [Arara Makerspace](http://araramaker.ufsc.br/) 
 
-## Hobies
-**Cinema**
-> **Filmes**: 
-    
-**Musica**
+>  am one of the founding members of the macrame makerspace, in which it aims to be a laboratory for the community of araranguá. [Facebook](facebook.com/araramaker)
 
-**Arte**
+
+
