@@ -1,10 +1,10 @@
 # Matheus Francisco Batista Machado
 
-**Localização:** Araranguá , Santa Catarina
-**Telefone:** +55 (48) 991496580]
-**Linkedin :** https://www.linkedin.com/in/matheus-francisco/
-**Blog:** [matheusfrancisco.github.io](http://matheusfrancisco.github.io)
-**Google scholar:** [Matheus Francisco B Machado](https://scholar.google.com.br/citations?user=cHEY7QIAAAAJ&hl=pt-BR)
+**Localização:** Araranguá , Santa Catarina </br>
+**Telefone:** +55 (48) 991496580] </br>
+**Linkedin :** https://www.linkedin.com/in/matheus-francisco/ </br>
+**Blog:** [matheusfrancisco.github.io](http://matheusfrancisco.github.io) </br>
+**Google scholar:** [Matheus Francisco B Machado](https://scholar.google.com.br/citations?user=cHEY7QIAAAAJ&hl=pt-BR) </br>
 
 
 **E-mail:** matheusmachadoufsc@gmail.com </br>
@@ -31,7 +31,7 @@ VueJs, Microcontroller programming, Solidity
 
 > CNPq scholarship holder in the research project Comparison between the use of different data sets for modeling and identifying at-risk academics, applying techniques of data mining and information on the machine and integration with web systems.
 
-> [publication](http://formulario.pibic.ufsc.br/pub/verFichaAvaliacao?id=520505&cpf=41819714810) </br>
+> [Projeto: Comparação entre a utilização de diferentes conjuntos de dados para a modelagem e identificação de acadêmicos em risco](http://formulario.pibic.ufsc.br/pub/verFichaAvaliacao?id=520505&cpf=41819714810) </br>
 > Identificação precoce de estudantes em risco de reprovação em disciplinas semipresenciais de programação de computadores </br>
 > [Comparação de diferentes configurações de bases de dados para a identificação precoce do risco de reprovação: o caso de uma disciplina semipresencial de Algoritmos e Programação
 ](http://br-ie.org/pub/index.php/sbie/article/view/8111) </br>
@@ -44,9 +44,7 @@ VueJs, Microcontroller programming, Solidity
 
 
 > [Turma A Certificate](https://github.com/matheusfrancisco/resume-cv/blob/master/certificates/arduino.pdf) </br>
-> [Turma B Certificate](https://github.com/matheusfrancisco/resume-cv/blob/master/certificates/arduino_%40.pdf)
-
-
+> [Turma B Certificate](https://github.com/matheusfrancisco/resume-cv/blob/master/certificates/arduino_%40.pdf) </br>
 
 **Teacher programming logic  at UFSC** - Logic course for children taught at UFSC with support from Arara MakerSpace
 
