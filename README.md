@@ -8,6 +8,7 @@ Hi i'm Matheus Francisco and this ir my cv.
 
 
 [click here](MatheusFranciscoBMachadoCV.pdf)
+[click here to english version](matheusfrancisco-english-version.pdf)
 
 
 ### Link to my resume in markdown 
